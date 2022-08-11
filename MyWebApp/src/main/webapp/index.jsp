@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-          <title>this is my Java Web App</title>
+          <title>JAVA APPLICATION</title>
           <meta content="text/html; charset=utf-8" />
     </head>
 <body>
 <h2> 
-	<h2> jenkins automated deployment by kajasherif</h2>
+	<h2> MY JAVA APPLICATION</h2>
   
 </body>
 </html>
